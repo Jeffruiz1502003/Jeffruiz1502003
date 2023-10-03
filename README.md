@@ -18,11 +18,11 @@
 <a href="https://www.linkedin.com/in/jeffrey-ruiz-a44b75246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeffrey Ruiz" height="30" width="40" /></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeffruiz1502003&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for JeffreyR" width="70" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jeffruiz1502003&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for JeffreyR" width="70" /> -->
 
 
 
-📊 **Weekly development breakdown**
+<!-- 📊 **Weekly development breakdown** -->
 
 [![@jeffruiz1502003's Holopin badges]()](https://holopin.io/@jeffruiz1502003)
 
