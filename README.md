@@ -16,28 +16,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jeffrey-ruiz-a44b75246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeffrey Ruiz" height="30" width="40" /></a>
-<img src="https://github-readme-stats.vercel.app/api?username=jeffruiz1502003&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="70" />
 </p>
 
--------
+<img src="https://github-readme-stats.vercel.app/api?username=jeffruiz1502003&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for JeffreyR" width="70" />
 
-**📝 Latest Blog Posts**
 
-<!-- BLOG-POST-LIST:START -->
-- []
-<!-- BLOG-POST-LIST:END -->
-
--------
 
 📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
 
-```txt
-Python       6 hrs 25 mins   ████████████████████▒░░░░   81.29 %
-Vue.js       43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-YAML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Docker       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-```
+[![@jeffruiz1502003's Holopin badges]()](https://holopin.io/@jeffruiz1502003)
 
-<!--END_SECTION:waka-->
+
+
