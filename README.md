@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://blog.athulcyriac.in">Blog</a> •
   <a href="https://twitter.com/athulcajay">Twitter</a>
-</p>
+</p> 
 
 <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> -->
 - 🔭 I’m currently looking for a position as a Software Developer
